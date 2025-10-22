@@ -218,6 +218,7 @@ Eğitim, demo ve araştırma amaçlıdır.
 
 
 ## 🧾 Ekip Üyeleri
-Ceydanur Kerem
+Ceydanur Kerem, 
 
 Muhammed Uğur Özmen
+
