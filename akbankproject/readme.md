@@ -215,8 +215,9 @@ sentence-transformers
 Bu proje, **Akbank Generative AI 101 Bootcamp** kapsamında geliştirilmiştir.
 Eğitim, demo ve araştırma amaçlıdır.
 
-Katkıda bulunmak için `issue` veya `pull request` açabilirsiniz.
+
 
 ## 🧾 Ekip Üyeleri
 Ceydanur Kerem
+
 Muhammed Uğur Özmen
